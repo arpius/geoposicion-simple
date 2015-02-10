@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Geoposición simple</string>
+    <string name="action_settings">Settings</string>
+    <string name="posicion">Posición actual</string>
+    <string name="activar">Activar</string>
+    <string name="desactivar">Desactivar</string>
+    <string name="estado">Estado</string>
+    <string name="provider">Estado del proveedor</string>
+    <string name="provider_on">Provider ON</string>
+    <string name="provider_off">Provider OFF</string>
+    <string name="latitud">Latitud</string>
+    <string name="longitud">Longitud</string>
+    <string name="precision">Precisión</string>
+    <string name="altitud">Altitud</string>
+    <string name="direccion">Dirección</string>
+    <string name="no_devuelve">No devuelve ninguna dirección</string>
+    <string name="imposible_obtener">Imposible obtener una dirección</string>
+    <string name="sin_datos">Sin datos</string>
+
+</resources>
